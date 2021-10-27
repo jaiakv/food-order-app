@@ -1,0 +1,8 @@
+.meal-div {
+  width: 100%;
+  list-style: none;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
